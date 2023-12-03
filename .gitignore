@@ -24,9 +24,6 @@
 *.mod
 *.smod
 
-#text files
-*.txt
-
 # Compiled Static libraries
 *.lai
 *.la
